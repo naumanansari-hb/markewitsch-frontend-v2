@@ -1,0 +1,6 @@
+{
+  "name": "Gebr. Markewitsch - Crane Finder & Lift Planner",
+  "description": "Interactive crane finder, lift engineering planner, CAD simulation, and indicative pricing quotation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
